@@ -1,0 +1,21 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.merlhinstudio.homeplace",
+    "sha256_cert_fingerprints":
+    ["F2:3F:4D:9E:AD:8B:0D:2F:2A:EB:03:F9:AE:91:5E:95:CA:F6:B6:3A:5B:9F:77:71:98:D8:FA:93:E8:63:30:35"]
+  }
+},
+
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.merlhinstudio.homeplace_pro",
+    "sha256_cert_fingerprints":
+    ["BF:84:13:17:16:D2:46:7F:62:95:EE:3D:83:C5:75:C8:BB:69:D6:78:71:E3:C5:DA:AB:1E:E5:EC:67:84:8C:29"]
+  }
+}
+
+]
